@@ -30,7 +30,7 @@ Solidity is the primary language used to code this application. Remix IDE is uti
 ----------------------------------------------------------------
 # Usage guide
 
-Copy or import the contract.sol into the remix IDE, compile and deploye in VM environment. 
+Copy or import the KaseiCoin.sol and KaseiCoinCrowdSale.sol  into the remix IDE, compile and deploye in VM environment. 
 
 ---------------------------------------------------------------
 
